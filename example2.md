@@ -1,5 +1,0 @@
-This is an example
-
-this is a new line
-
-git
